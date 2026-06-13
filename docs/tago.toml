@@ -1,0 +1,10 @@
+title       = "pg"
+baseURL     = "https://paulgraham-cli.tamnd.com/"
+description = "Browse Paul Graham essays"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/paulgraham-cli"
